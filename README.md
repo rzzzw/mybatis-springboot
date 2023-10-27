@@ -1,1 +1,2 @@
 # mybatis-springboot
+This is a simple demo project that demonstrates how to integrate MyBatis in a Spring Boot application, connect to a MySQL database, create XML mapper files, and perform CRUD (Create, Read, Update, Delete) operations.
